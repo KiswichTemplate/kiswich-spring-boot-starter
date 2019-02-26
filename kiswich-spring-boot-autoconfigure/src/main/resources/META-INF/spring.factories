@@ -1,0 +1,7 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.com.scooper.autoconfigure.KiswichAutoConfiguration,\
+  cn.com.scooper.autoconfigure.KiswichRetrofitAutoConfiguration,\
+  cn.com.scooper.autoconfigure.KiswichCacheAutoConfiguration,\
+  cn.com.scooper.autoconfigure.KiswichExecutorAutoConfiguration,\
+  cn.com.scooper.autoconfigure.PlatAutoConfiguration
